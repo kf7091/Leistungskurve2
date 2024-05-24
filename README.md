@@ -1,12 +1,7 @@
-# Copy
-
-streamlit run main.py
-
-
 ## Requirements
 - pandas
-- numpy
-- matplotlip
+- plotly
+
 ### oder
 - `pip install -r requirements.txt`
 
@@ -15,10 +10,9 @@ streamlit run main.py
 - Clonen sie das Github-Repository auf Ihren PC.
     - Dazu Git Bash öffnen und zum gewünschten Ordner navigieren
     - Führen sie folgende Befehl aus: `git clone <Link des Repositorys>` 
-    - Öffnen Sie den Ordner in VS-Code
 - starten sie das Virtual Environment
 - führen Sie den Befehl `python main.py` aus
-- das programm erstellt nun einen Ordner *figures*. In diesem befindet sich nun die Leistungskurve als *.jpg*. Zusätzlich zeigt es diese in einer Vorschau an.
+- das Programm zeigt nun die Daten an.
 
 ## Befehle um Virtual Environment zu erstellen
 ### Windows:
