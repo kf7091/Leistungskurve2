@@ -12,7 +12,7 @@
     - Führen sie folgende Befehl aus: `git clone <Link des Repositorys>` 
 - starten sie das Virtual Environment
 - führen Sie den Befehl `python main.py` aus
-- das Programm zeigt nun die Daten an.
+- das Programm zeigt nun die Powercurve an.
 
 ## Befehle um Virtual Environment zu erstellen
 ### Windows:
